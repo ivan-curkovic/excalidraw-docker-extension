@@ -1,4 +1,4 @@
-# Introcution
+# Introdution
 
 This is the minimal open source project to host Excalidraw as a Docker Extension.
 
