@@ -1,0 +1,13 @@
+{
+  "icon": "excalidraw-logo.svg",
+  "vm": {
+    "composefile": "docker-compose.yaml"
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "Excalidraw",
+      "src": "index.html",
+      "root": "ui"
+    }
+  }
+}

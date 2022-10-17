@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  excalidraw:
+    image: excalidraw/excalidraw
+    ports:
+      - 9999:80
+    restart: on-failure
+    healthcheck:
+      disable: true
