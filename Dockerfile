@@ -2,11 +2,15 @@
 FROM alpine
 LABEL org.opencontainers.image.title="Excalidraw" \
     org.opencontainers.image.description="Docker Extension for the Excalidraw - virtual whiteboard for sketching hand-draw like diagrams" \
-    org.opencontainers.image.vendor="excalidraw" \
+    org.opencontainers.image.vendor="ivan-curkovic" \
     com.docker.desktop.extension.api.version="0.3.0" \
-    com.docker.extension.screenshots="" \
+    com.docker.desktop.extension.icon="https://raw.githubusercontent.com/excalidraw/excalidraw/master/public/og-image-sm.png" \
+    com.docker.extension.screenshots="[ \
+    {\"url\": \"https://raw.githubusercontent.com/ivan-curkovic/excalidraw-docker-extension/main/screenshot.png\", \"alt\": \"Screenshot\"}, \
+    ]" \
+    com.docker.extension.categories="utility-tools" \
     com.docker.extension.detailed-description="" \
-    com.docker.extension.publisher-url="" \
+    com.docker.extension.publisher-url="https://github.com/ivan-curkovic/excalidraw-docker-extension" \
     com.docker.extension.title="Excalidraw" \
     com.docker.extension.additional-urls="" \
     com.docker.extension.changelog=""
