@@ -1,5 +1,5 @@
 IMAGE?=ivancurkovic046/excalidraw-docker-extension
-TAG?=1.0.3
+TAG?=1.0.5
 
 BUILDER=buildx-multi-arch
 

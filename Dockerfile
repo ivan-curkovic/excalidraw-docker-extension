@@ -4,9 +4,9 @@ LABEL org.opencontainers.image.title="Excalidraw" \
     org.opencontainers.image.description="Docker Extension for the Excalidraw - virtual whiteboard for sketching hand-draw like diagrams" \
     org.opencontainers.image.vendor="ivan-curkovic" \
     com.docker.desktop.extension.api.version="0.3.0" \
-    com.docker.desktop.extension.icon="https://raw.githubusercontent.com/excalidraw/excalidraw/master/public/og-image-sm.png" \
+    com.docker.desktop.extension.icon="https://raw.githubusercontent.com/ivan-curkovic/excalidraw-docker-extension/main/excalidraw-logo.png" \
     com.docker.extension.screenshots="[ \
-    {\"url\": \"https://raw.githubusercontent.com/ivan-curkovic/excalidraw-docker-extension/main/screenshot.png\", \"alt\": \"Screenshot\"}, \
+    {\"url\": \"https://raw.githubusercontent.com/ivan-curkovic/excalidraw-docker-extension/main/screenshot.png\", \"alt\": \"Screenshot\"} \
     ]" \
     com.docker.extension.categories="utility-tools" \
     com.docker.extension.detailed-description="" \
